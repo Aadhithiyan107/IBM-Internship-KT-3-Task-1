@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1767283439827,
+    "productName": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "stock": 20,
+    "supplier": "Dell"
+  },
+  {
+    "id": 1767283472301,
+    "productName": "Motherboard",
+    "category": "Electronics",
+    "price": 55000,
+    "stock": 20,
+    "supplier": "ASUS"
+  }
+]
